@@ -1,0 +1,20 @@
+{
+  "source": "modelscope",
+  "repository": "Eslzzyl/Qwen3-4B-Instruct-2507-AWQ",
+  "revision": "2a0475fc7daaaa91d8a3f24be10891f2c2c3388d",
+  "directory": "Qwen3-4B-Instruct-2507-AWQ-Eslzzyl",
+  "served_model_name": "qwen4b",
+  "base_model": "Qwen/Qwen3-4B-Instruct-2507",
+  "files": {
+    "config.json": {"sha256": "f23d2895698b395bad3aab47268696bec91e2dffaa0d4540d2da713f6e9fda92"},
+    "generation_config.json": {"sha256": "24b9a8f0b2e6e12b854be8d79b037bf4bf8be5c1d648804673e90d8d4fd7832b"},
+    "tokenizer_config.json": {"sha256": "2f8396a75e4ef94389a2738b55a4d4aea47ca444f320c39f92f71c9c0a9c6ee8"},
+    "special_tokens_map.json": {"sha256": "76862e765266b85aa9459767e33cbaf13970f327a0e88d1c65846c2ddd3a1ecd"},
+    "added_tokens.json": {"sha256": "c0284b582e14987fbd3d5a2cb2bd139084371ed9acbae488829a1c900833c680"},
+    "merges.txt": {"sha256": "8831e4f1a044471340f7c0a83d7bd71306a5b867e95fd870f74d0c5308a904d5"},
+    "vocab.json": {"sha256": "ca10d7e9fb3ed18575dd1e277a2579c16d108e32f27439684afa0e10b1440910"},
+    "README.md": {"sha256": "26ffc462b7d1d815914e8ea44bcd1e3a3874cc27d85ccea4617c9fe0bfe05f63"},
+    "tokenizer.json": {"sha256": "aeb13307a71acd8fe81861d94ad54ab689df773318809eed3cbe794b4492dae4"},
+    "model.safetensors": {"bytes": 2666027672, "sha256": "8f856bff8f3841e9d7fe988f9cac47d4de3604530e70096ddf6b7a9b607145ea"}
+  }
+}

@@ -1,0 +1,8 @@
+* text=auto eol=lf
+
+*.gguf -text
+*.safetensors -text
+*.png -text
+*.jpg -text
+*.pdf -text
+*.mp4 -text

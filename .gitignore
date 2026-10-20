@@ -1,0 +1,29 @@
+# Linux build outputs
+/build/
+*.o
+*.a
+*.so
+*.so.*
+*.d
+*.exe
+
+# Local model weights and runtime logs
+*.gguf
+*.safetensors
+__pycache__/
+*.pyc
+/logs/
+
+# Local scratch files
+/tmp/
+*.swp
+*~
+
+# Local editor settings and auxiliary materials
+/.vscode/
+/答辩材料/
+/归档/
+*.docx
+*.pptx
+/docs/*
+!/docs/运行说明.md
